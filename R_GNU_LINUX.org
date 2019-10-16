@@ -1,0 +1,17 @@
+
+* Redes de datos en GNU/Linux
+
+El taller abarcará temas de configuración inicial de los equipos y comandos necesarios para la implementación de redes conmutadas, tratando de llegar a una practica final que pueda reforzar los visto en el taller.
+
+** Temas
+*** introducción
+**** Sistema Operativo y sus cualidades
+*****  -- Ventajas de  la implementación de redes de datos con GNU/Linux
+*****   -- Desventajas
+*****     -- ¿Donde se aplican?
+** Redes Conmutadas
+***     -- Redes Virtuales
+--Practica
+     -- Implementación de un laboratorio de redes en una PC o laptop.
+
+
