@@ -5,13 +5,13 @@ El taller abarcará temas de configuración inicial de los equipos y comandos ne
 
 ** Temas
 *** introducción
-**}** Sistema Operativo y sus cualidades
+**** Sistema Operativo y sus cualidades
 *****  -- Ventajas de  la implementación de redes de datos con GNU/Linux
 *****   -- Desventajas
 *****     -- ¿Donde se aplican?
 ** Redes Conmutadas
 ***     -- Redes Virtuales
-** Practica
-***  -- Implementación de un laboratorio de redes en una PC o laptop.
+--Practica
+     -- Implementación de un laboratorio de redes en una PC o laptop.
 
 
